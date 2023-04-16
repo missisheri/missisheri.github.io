@@ -4,7 +4,7 @@
 ### PCDE Activity 9.1
 <a href="https://missisheri.github.io/PCDE-Activity-9.1/"> PCDE Activity 9.1 Exercise </a>
 
-### Python_Card_Game
+### Python Card Game
 <a href="https://missisheri.github.io/Python_Card_Game/"> Python Card Game </a>
 
 ### Django/Docker/AWS
